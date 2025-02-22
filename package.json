@@ -16,9 +16,7 @@
     "@cucumber/cucumber": "*",
     "@playwright/test": "^1.40",
     "allure-playwright": "^2.0.0-beta.15",
+    "exceljs": "^4.4.0",
     "typescript": "^5.4.5"
-  },
-  "dependencies": {
-    "exceljs": "^4.4.0"
   }
 }
